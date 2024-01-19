@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;innerInstance&apos; to &apos;localClass&apos;&#x0D;&#x0A;- Original project: &apos;Ddazua_1109&apos;&#x0D;&#x0A;- Original element: &apos;Ddazua_1109/src/innerInstance&apos;&#x0D;&#x0A;- Renamed element: &apos;Ddazua_1109/src/localClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;innerInstance&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;innerInstance" name="localClass" qualified="false" references="true" stamp="1699493994870" textual="false" version="1.0"/>
+</session>
