@@ -19,14 +19,15 @@
 		~~~
 	- ex1) 콘솔창에 빨긴 네모 버튼을 누를 때까지 반복
 		- ![](https://i.imgur.com/csP1sWu.png)
+ 
 
-- ex1 0을 입력시 프로그램 종료)
+- ex2 0을 입력시 프로그램 종료)
 	- ![](https://i.imgur.com/TtcIX4w.jpg)
 
-- ex2 짝수 입력시 프로그램 종료)
+- ex3 짝수 입력시 프로그램 종료)
 	- ![](https://i.imgur.com/H159cyu.jpg)
 
-- ex3 입력한 모든 숫자를 더하고 0을 누르면 종료)
+- ex4 입력한 모든 숫자를 더하고 0을 누르면 종료)
 	- ![](https://i.imgur.com/3PgwfXz.jpg)
 
 
