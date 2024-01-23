@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;abstractClass.PhoneTest&apos; to &apos;PhoneTestMain&apos;&#x0D;&#x0A;- Original project: &apos;Ddazua_1101&apos;&#x0D;&#x0A;- Original element: &apos;abstractClass.PhoneTest&apos;&#x0D;&#x0A;- Renamed element: &apos;abstractClass.PhoneTestMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PhoneTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;abstractClass{PhoneTest.java[PhoneTest" matchStrategy="1" name="PhoneTestMain" qualified="false" references="true" similarDeclarations="false" stamp="1698855661400" textual="false" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;bronze5.AminusB&apos; to &apos;AminusB1001&apos;&#x0D;&#x0A;- Original project: &apos;BaekjoonQuiz&apos;&#x0D;&#x0A;- Original element: &apos;bronze5.AminusB&apos;&#x0D;&#x0A;- Renamed element: &apos;bronze5.AminusB1001&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AminusB&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;bronze5{AminusB.java[AminusB" matchStrategy="1" name="AminusB1001" qualified="false" references="true" similarDeclarations="false" stamp="1697128085460" textual="false" version="1.0"/>
-</session>

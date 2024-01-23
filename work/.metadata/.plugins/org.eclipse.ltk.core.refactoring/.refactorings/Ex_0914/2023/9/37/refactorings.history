@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;ex2_Enum.Transportaion.java&apos; to &apos;Transportation.java&apos;&#x0D;&#x0A;- Original project: &apos;Ex_0914&apos;&#x0D;&#x0A;- Original element: &apos;ex2_Enum.Transportaion.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ex2_Enum.Transportation.java&apos;" description="Rename compilation unit &apos;Transportaion.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ex2_Enum{Transportaion.java" name="Transportation.java" references="false" stamp="1694676205419" version="1.0"/>
-</session>

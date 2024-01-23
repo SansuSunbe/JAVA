@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;map&apos; to &apos;mapEx&apos;&#x0D;&#x0A;- Original project: &apos;Ddazua_1124&apos;&#x0D;&#x0A;- Original element: &apos;Ddazua_1124/src/map&apos;&#x0D;&#x0A;- Renamed element: &apos;Ddazua_1124/src/mapEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;map&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;map" name="mapEx" qualified="false" references="true" stamp="1700835288611" textual="false" version="1.0"/>
-</session>
