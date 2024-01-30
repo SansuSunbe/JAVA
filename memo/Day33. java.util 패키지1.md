@@ -38,3 +38,8 @@
 
 - SimpleDateFormat
 	- 날짜를 형식화 하는 클래스
+
+- ex) SimpleDateFormat 예시
+
+	- ![](https://i.imgur.com/oEDLdhw.png)
+ - 
