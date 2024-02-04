@@ -51,5 +51,5 @@
 
 	- ![](https://i.imgur.com/ARPmVJc.png)
 
-- ex) 예시 코드
+
 	
